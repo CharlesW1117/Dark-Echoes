@@ -4,7 +4,7 @@ import { episodeList } from "./data";
 export default function App() {
   // state variables
   const [episodes] = useState(episodeList);
-  const [selectedEpisode, setSelectedEpisode] = useState(null);
+  const [selectedEpisode, setSelectedEpisode] = useState();
 
   return (
     <div className="app">

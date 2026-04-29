@@ -1,7 +1,7 @@
 /* General layout */
 body {
   font-family: "Segoe UI", Roboto, sans-serif;
-  background-color: #0e0e10;
+  background-color: #151010;
   color: #e0e0e0;
   margin: 0;
   padding: 0;
@@ -13,9 +13,9 @@ body {
 
 /* App container */
 .app {
-  width: 90%;
-  max-width: 800px;
-  background-color: #1a1a1d;
+  width: 100%;
+  max-width: 900px;
+  background-color: #290303;
   border-radius: 8px;
   padding: 2rem;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
@@ -24,7 +24,7 @@ body {
 /* Header */
 h1 {
   text-align: center;
-  color: #9b59b6;
+  color: #51db07;
   margin-bottom: 1.5rem;
 }
 
@@ -57,7 +57,7 @@ li:hover {
 }
 
 .details h2 {
-  color: #9b59b6;
+  color: #51db07;
   margin-top: 0;
 }
 
